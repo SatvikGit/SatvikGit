@@ -57,7 +57,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/SatvikGit/SatvikGit/output/snake.svg"/>
+<img src="https://raw.githubusercontent.com/SatvikGit/SatvikGit/output/snake.svg" alt="Snake animation" />
 
 ###
 
