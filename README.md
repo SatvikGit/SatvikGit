@@ -47,8 +47,8 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=413 src="https://streak-stats.demolab.com/?user=amishapandit5&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=amishapandit5&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width=413 src="https://streak-stats.demolab.com/?user=SatvikGit&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=SatvikGit&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
     
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amishapandit5&&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10)](https://github.com/SatvikGit/github-readme-stats)
