@@ -51,9 +51,8 @@
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=SatvikGit&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
     
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SatvikGit&&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10)](https://github.com/SatvikGit/github-readme-stats)
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SatvikGit&count_private=true&show_icons=true&theme=react&border_radius=10" />
     
-</div>
 </div>
 
 ###
@@ -79,7 +78,7 @@
 ###
 
 <div align="center">
-  <a href="pathak.satvik230@gmail.com">
+  <a href="mailto:pathak.satvik230@gmail.com">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/satvikpathak/" target="_blank">
